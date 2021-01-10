@@ -1,7 +1,0 @@
-name: Mineoreadminchat
-description: "czat adminow"
-version: 1.0
-main: lokal.ore.mineore.adminchat.AdminChat
-commands:
- a:
-  description: "Admin chat"
